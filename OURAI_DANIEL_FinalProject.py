@@ -7,7 +7,6 @@
 #   Rider: The rider's name (str)
 #   Bike: Make, model and year of the motorcycle the rider intends to ride (str)
 #   rideDate: Intended date for rider's test ride (str)
-#   msrp5: Price of motorcycle number 5 (int)
 #   age: age of the rider (int)
 #   faq: function used to display the FAQ list
 #   Info: Class for documented rider info for later use in program

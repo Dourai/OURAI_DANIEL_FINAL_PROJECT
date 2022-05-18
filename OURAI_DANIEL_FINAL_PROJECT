@@ -12,7 +12,6 @@
 #   faq: function used to display the FAQ list
 #   Info: Class for documented rider info for later use in program
 
-mcycle1 = ("Kawasaki Vulcan 650")
 
 print("Here is our current list of test ride options: ")
 print("2018 Kawasaki Vulcan 650 (67hp) $6,699")
